@@ -11,3 +11,6 @@ Y
 )src/main/java/jm/task/core/jdbc/Main.java,3\4\34d4aa166bffbba6637c9f7d46557303f439ce01
 ^
 .src/main/java/jm/task/core/jdbc/util/Util.java,9\7\9796930b00efb6481db6216a9555b1822805bfa3
+:
+
+.gitignore,a\5\a5cc2925ca8258af241be7e5b0381edf30266302
